@@ -41,14 +41,3 @@ py .\case-02-iot-generator\main.py
 py .\case-03-login-security\main.py
 ```
 
-Jika perintah `py` tidak tersedia, coba ganti `py` dengan `python`.
-
-## Progres Pengerjaan
-- [x] Struktur folder untuk tiga studi kasus disiapkan.
-- [x] Kode awal untuk ketiga studi kasus disiapkan.
-- [ ] Menjalankan dan memeriksa ketiga program di komputer lokal.
-- [ ] Mengambil screenshot nyata output terminal untuk masing-masing kasus.
-- [ ] Memeriksa kembali dokumentasi dan struktur repository.
-- [ ] Melakukan commit dan push bertahap ke GitHub.
-
-> Catatan: centang progres pengujian, screenshot, dan Git setelah langkah tersebut benar-benar dilakukan.
